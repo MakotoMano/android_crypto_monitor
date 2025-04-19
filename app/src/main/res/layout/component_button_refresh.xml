@@ -12,5 +12,4 @@
         android:background="@drawable/shape_button_refresh"
         android:text="@string/label_refresh"
         android:textColor="@color/white" />
-    
 </LinearLayout>
