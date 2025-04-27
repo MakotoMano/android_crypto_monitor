@@ -94,7 +94,7 @@ Caso ocorra qualquer exceção durante a chamada (ex: sem internet, erro de pars
 
 ### Tela Inicial do Aplicativo
 
-![Tela Inicial Android](https://github.com/user-attachments/assets/1a2f2d3a-4458-4654-bc00-2ddff23f2d5b)
+![Tela Inicial Aplicativo](https://github.com/user-attachments/assets/87b089c8-6bce-48fc-8ebf-ed3d4697fa73)
 
 
 ### Tela do Aplicativo após a atualização
